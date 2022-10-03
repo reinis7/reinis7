@@ -1,14 +1,14 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="user-content-thanks-for-visiting-my-git-" class="anchor" aria-hidden="true" href="#thanks-for-visiting-my-git-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I am a full stack developer~ </h1>
 <h2 dir="auto"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About me</h2>
 <ul dir="auto">
-<li>Seasoned React, Laravel/Vue Engineer specialized in full-stack development with 6+ years of hands-on experience programming with best-in-class applications.
+<li>Seasoned JS Engineer specialized in full-stack development with 6+ years of hands-on experience programming with best-in-class applications.
 Adept at driving front-end and back-end integration to ensure seamless, scalable and reliable application. I enjoy building projects from scratch to the end through the full software development life cycle, with the agile methodology.</li>
 </ul>
 <h2 dir="auto"><a id="user-content-experience" class="anchor" aria-hidden="true" href="#experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Experience:</h2>
 <ul dir="auto">
 <li>HTML, HTML5, CSS/CSS3, SASS/SCSS, JavaScript, TypeScript</li>
-<li>UI: Bootstrap, Tailwind CSS, Material UI, Styled Components</li>
-<li>JS Frameworks: React.JS, Gatsby.JS, Next.JS, Vue.js, Nuxt.js, Node.js</li>
+<li>UI: Tailwind CSS, Bootstrap, Material UI, Styled Components</li>
+<li>JS Frameworks: React.JS, Vue.js, Gatsby.JS, Next.JS, Nuxt.js, Node.js</li>
 <li>Backend Frameworks: Laravel, WordPress, Symphony, Express, Nest.js, GraphQL</li>
 <li>Headless CMS: Contentful, Strapi, Prismic, WordPress</li>
 <li>Data Visualization: D3.js, Chart.js, Recharts, ApexCharts, Echarts, Highcharts</li>
