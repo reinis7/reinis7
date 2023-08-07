@@ -15,7 +15,11 @@ Adept at driving front-end and back-end integration to ensure seamless, scalable
 <li>Specialized JS: PDF.js, jsPDF, Fabric.js, Canvas.js, SVG.js </li>
 </ul>
 <hr>
-
+![](https://komarev.com/ghpvc/?username=reinis7)   <br />
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=reinis7&column=5&theme=onedark" width="100%" />
+</div>
   ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
